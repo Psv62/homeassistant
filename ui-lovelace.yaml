@@ -27,6 +27,8 @@ views:
   - !include lovelace/32_switchlight.yaml
   - !include lovelace/33_other.yaml
   
+
+  - test zapisss
   
   
   
